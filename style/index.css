@@ -12,8 +12,8 @@ header{
 }
 .menu{
     display: flex;
-    max-width: 460px;
-    height: 150px;
+    max-width: 235px;
+    height: 127px;
     justify-content: center;
 }
 .main{
@@ -22,6 +22,13 @@ header{
     flex-wrap: wrap;
 
 }
+
+#logo{
+    display: flex;
+    width: 257px;
+    height: 129px;
+}
+
 .container{
     display: flex;
     justify-content: center;
