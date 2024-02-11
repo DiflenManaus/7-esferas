@@ -48,6 +48,7 @@ header{
     color: #f7f7f7;
     border: solid 2px #f7f7f7;
     text-align: center;
+    
 }
 .tittle_profissoes h1{
     font-size: 20px;
@@ -66,4 +67,22 @@ header{
 .areas a{
     text-decoration: none;
     color: #f7f7f7;
+}
+.box_contato_grupo{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    color: #f7f7f7;
+    border: solid 2px #f7f7f7;
+}
+
+.text_contato_grupo h1{
+    margin-top: 16px;
+    text-align: center;
+    font-size: 17px;
+    color: #f7f7f7;
+    text-decoration: none;
+}
+.text_contato_grupo{
+    padding: 10px 20px;
 }
