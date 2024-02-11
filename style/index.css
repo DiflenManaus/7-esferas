@@ -13,20 +13,23 @@ header{
 .menu{
     display: flex;
     max-width: 235px;
-    height: 127px;
+    height: 200px;
     justify-content: center;
+    margin-top: 0.5rem;
 }
+
+.posheader{
+    padding-top: -100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .main{
     color: #f7f7f7;
     display: flex;
     flex-wrap: wrap;
 
-}
-
-#logo{
-    display: flex;
-    width: 257px;
-    height: 129px;
 }
 
 .container{
