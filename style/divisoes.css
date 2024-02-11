@@ -34,6 +34,10 @@ header{
     justify-content: center;
     
 }
+.container a{
+    text-decoration: none;
+    color: #f7f7f7;
+}
 .img_background{
     padding-top: 25px;
     width: 100%;
@@ -49,16 +53,9 @@ header{
     border: solid 2px #f7f7f7;
     display: flex;
     width: 250px;
-    background-color: red;
+    justify-content: center;
 }
-.tittle_profissoes i{
-    width: 10px;
-    background-color: blue;
-}
-.tittle_profissoes a{
-    text-decoration: none;
-    color: #f7f7f7;
-}
+
 .tittle_profissoes h1{
     font-size: 20px;
     font-weight: 400;
