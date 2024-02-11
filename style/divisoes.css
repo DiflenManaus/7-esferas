@@ -47,7 +47,17 @@ header{
     margin-top: 16px;
     color: #f7f7f7;
     border: solid 2px #f7f7f7;
-    text-align: center;
+    display: flex;
+    width: 250px;
+    background-color: red;
+}
+.tittle_profissoes i{
+    width: 10px;
+    background-color: blue;
+}
+.tittle_profissoes a{
+    text-decoration: none;
+    color: #f7f7f7;
 }
 .tittle_profissoes h1{
     font-size: 20px;
